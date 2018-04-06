@@ -1,3 +1,5 @@
+[![Omar G.](http://omarg.me/cache/images/logo.png "Omar G. MyBB Page")](http://omarg.me/page?mybb "Omar G. MyBB Page")
+
 ## OUGC PM New Moderators
 PM new moderators once being assigned to a forum.
 
@@ -22,3 +24,5 @@ Free support may be received in the [MyBB Community](http://community.mybb.com "
 Remember those are free releases developed on my personal free time let it be because I like it or because of customer's requests.
 
 Thanks for downloading and using my plugins, I really appreciate it!
+
+[![Analytics](https://ga-beacon.appspot.com/UA-54127252-4/OUGC-PM-New-Moderators/README?flat&useReferer)](https://github.com/igrigorik/ga-beacon)
